@@ -1,7 +1,4 @@
-from cgitb import text
-from dis import dis
 import sys
-from turtle import window_width
 import pygame
 from random import randint, uniform
 
